@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aurarouter-win-x64"
-version = "0.5.8189"
+version = "0.5.81891"
 authors = [{ name = "Steven Siebert", email = "info@auracoredynamics.com" }]
 description = "Windows CPU backend for AuraRouter"
 readme = "README.md"

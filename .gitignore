@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-src/aurarouter_win_x64/bin/
 build/
 develop-eggs/
 dist/
